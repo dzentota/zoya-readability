@@ -7,6 +7,7 @@
             "email": "webtota@gmail.com"
         }
     ],
+    "license": "Apache v2.0",
     "autoload": {
         "psr-0": {
             "Readability": "src/"
