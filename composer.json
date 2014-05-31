@@ -10,8 +10,7 @@
     "autoload": {
         "psr-0": {
             "Readability": "src/"
-        },
-
+        }
     }
 }
 
