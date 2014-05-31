@@ -1,0 +1,17 @@
+{
+    "name": "zoya/readability",
+    "description": "Fork of Arc90's Readability ported to PHP for FiveFilters.org",
+    "authors": [
+        {
+            "name": "Alexander Tatulchenkov",
+            "email": "webtota@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Readability": "src/"
+        },
+
+    }
+}
+
